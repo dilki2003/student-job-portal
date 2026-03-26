@@ -20,7 +20,7 @@ if(!isset($_SESSION['employer_id']))
 
 <div class="container mt-5 dashboard-box text-center">
 
-<h1>Welcome <?php echo $_SESSION['company']; ?> 🏢</h1>
+<h1>Welcome! <?php echo $_SESSION['company']; ?> 🏢</h1>
 
 <div class="mt-4">
 
